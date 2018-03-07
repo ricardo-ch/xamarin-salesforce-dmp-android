@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Ricardo.Salesforce.DMP.Android</id>
+        <version>4.2.0</version>
+        <description>Xamarin Binding Library - Salesforce DMP Android SDK</description>
+        <authors>Jean-Marie GUEIRARD</authors>
+        <owners>ricardo.ch AG</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Salesforce DMP Android</title>
+        <releaseNotes>Salesforce DMP android SDK v4.2.0</releaseNotes>
+        <summary>Xamarin Binding Library - Salesforce DMP Android SDK</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/ricardo-ch/xamarin-salesforce-dmp-android/</projectUrl>
+        <copyright>Copyright (c) 2018 ricardo.ch AG</copyright>
+        <tags>Xamarin.Android, salesforce, dmp, krux</tags>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Ricardo.Salesforce.DMP.Android/Ricardo.Salesforce.DMP.Android/bin/Release/Ricardo.Salesforce.DMP.Android.dll" target="lib/MonoAndroid10/Ricardo.Salesforce.DMP.Android.dll" />
+    </files>
+</package>
