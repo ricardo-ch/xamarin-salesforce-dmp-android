@@ -20,4 +20,11 @@ Global
 		{D68A5181-43E8-4774-A5EE-63068C4672C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D68A5181-43E8-4774-A5EE-63068C4672C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.VersionControlPolicy = $2
+		version = 4.3.0
+	EndGlobalSection
 EndGlobal
