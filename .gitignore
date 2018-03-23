@@ -162,5 +162,6 @@ $RECYCLE.BIN/
 Resource.designer.cs
 /CodeMaid.config
 Components/
-/.idea/
+.idea/
 *.nupkg
+.vs/
