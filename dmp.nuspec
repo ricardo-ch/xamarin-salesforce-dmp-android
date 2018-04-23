@@ -3,13 +3,13 @@
     <metadata>
         <!-- Required elements-->
         <id>Ricardo.Salesforce.DMP.Android</id>
-        <version>4.3.0</version>
+        <version>4.3.1</version>
         <description>Xamarin Binding Library - Salesforce DMP Android SDK</description>
         <authors>Jean-Marie GUEIRARD</authors>
         <owners>ricardo.ch AG</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Salesforce DMP Android</title>
-        <releaseNotes>Salesforce DMP android SDK v4.3.0</releaseNotes>
+        <releaseNotes>Salesforce DMP android SDK v4.3.1</releaseNotes>
         <summary>Xamarin Binding Library - Salesforce DMP Android SDK</summary>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/ricardo-ch/xamarin-salesforce-dmp-android/</projectUrl>

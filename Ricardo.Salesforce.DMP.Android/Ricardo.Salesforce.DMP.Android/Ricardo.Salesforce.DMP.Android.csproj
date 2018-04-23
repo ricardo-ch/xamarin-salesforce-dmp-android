@@ -55,7 +55,7 @@
     <TransformFile Include="Transforms\Metadata.xml" />
   </ItemGroup>
   <ItemGroup>
-    <LibraryProjectZip Include="Jars\krux-java-android-sdk-4.3.0.aar" />
+    <LibraryProjectZip Include="Jars\krux-java-android-sdk-4.3.0-with-spt-fix.aar" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.Bindings.targets" />
 </Project>
